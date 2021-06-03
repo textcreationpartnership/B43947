@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the continuator of the present state of our controversy. Laying open the folly of his extravagant boasting and the malice of his willfull forgeries / by John Sergeant.</title>
+            <author>Sergeant, John, 1622-1707.</author>
+         </titleStmt>
+         <extent>Approx. 47KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43947</idno><idno type="EEBO-CITATION">690988950</idno>
+  <idno type="VID">211692</idno>
+  <idno type="EEBO-PROQUEST">2240869568</idno>
+  
+            <idno type="OCLC"> 690988950</idno>
+            <idno type="OCLC">ocn 690988950</idno>
+            <idno type="STC">Wing S2576</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43947)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211692)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2984:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the continuator of the present state of our controversy. Laying open the folly of his extravagant boasting and the malice of his willfull forgeries / by John Sergeant.</title>
+                  <author>Sergeant, John, 1622-1707.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by Matthew Turner at Lamb in High-Holborn,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint taken from colophon.</note>
+                  <note>"With allowance."</note>
+                  <note>Imperfect: pages are stained and torn with some loss of text.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Wake, William, 1657-1737 --  Early works to 1800.</term>
+               <term type="corporate_name">Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:211692:1"/>
+            <pb facs="tcp:211692:2"/>
+            <pb n="1" facs="tcp:211692:2"/>
+            <head>A LETTER To the CONTINUATOR OF THE Present State of our Controversy.</head>
+            <head type="sub">Laying open the <hi>Folly</hi> of his <hi>Extravagant Boast<g ref="char:EOLhyphen"/>ing,</hi> and the <hi>Malice</hi> of his <hi>Willfull Forgeries.</hi>
+            </head>
+            <byline>By <hi>John Sergeant.</hi>
+            </byline>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>With Allowance.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p n="1">1. SIr, what you are I do not <hi>know;</hi> nor have any reason, from your carriage, to think you are much <hi>worth</hi> the knowing; and you did very prudently to mask your self under the disguise of a <hi>private and obscure hand,</hi> to hide the blushes which common shame would otherwise force even into a fore<g ref="char:EOLhyphen"/>head <note place="margin">Epist. Dedi<g ref="char:EOLhyphen"/>catory.</note> of the blackest complexion. It is easy to discern by your furious Zeal, your Falsifying humour, and your Patronizing so fiercely that party which maintains that <hi>All Christian Faith</hi> which is held now <hi>may be False,</hi> that you are far from the Prin<g ref="char:EOLhyphen"/>ciples of a Genuin Church of England-man, farther than a good Benefice may perhaps give you a Vocation, but rather some hot<g ref="char:EOLhyphen"/>brain'd <hi>Calvinist</hi> in <hi>masquerade,</hi> parboil'd by the scalding zeal against Popery into a stanch Protestant, which like Lobsters change their <hi>hew</hi> and <hi>outward appearance,</hi> but not their <hi>Nature.</hi> The Character you have given your <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>y your behaviour
+<pb facs="tcp:211692:3"/>
+               <pb n="1" facs="tcp:211692:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:211692:4"/> in your 41st. page; is that you are a <hi>Willfull</hi> and <hi>Bold</hi> Calum<g ref="char:EOLhyphen"/>niator; who, trusting to the easy <hi>Credulousness</hi> of your Friends, and relying on the Great <hi>Noise</hi> your Numerous party are able to make, value not a straw what <hi>manifest Falshhoods</hi> you pub<g ref="char:EOLhyphen"/>lish. And, which is the <hi>worst</hi> Quality of a <hi>Lyer,</hi> that you are a <hi>Careless, Open,</hi> and <hi>Confident</hi> one. If this can be plainly made good against you, I am sure your rude and Unchristian carriage towards me justifies me for letting the world know you are guilty of these Faults of the First Magnitude. What prejudice this may do to your Descants all along upon other pieces writ by Catho<g ref="char:EOLhyphen"/>licks you are to look to, and should have better consider'd when you thus <hi>sacrific'd</hi> your <hi>Conscience</hi> to your <hi>Malice;</hi> for if this be prov'd upon you, it will here stand upon <hi>Publique Record,</hi> and like your fellow<hi>-Knights of the Post,</hi> you are never to be believ'd in any thing you say either here or hereafter. Certainly Sir, a little more Temperance had done your Cause far more Right: For every man of an ordinary Prudence will vehemently suspect your sharp Reflexions are meerly <hi>Romantick,</hi> seeing you make the Protestant <hi>Knight</hi> still beat the Popish <hi>Gyant.</hi> What man of common Reason will, do you think, believe you, that the Catholick Party have in none of their Books sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke a word of Sense, or tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (as you tell the Reader with much assurance) <hi>never was Cause more intirely baffled:</hi> Nay, in <note place="margin">Epist. to the Reader.</note> the full career of your ranting exaggerations, you aver without Fear, Sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me or Wit, that <hi>your very Footmen themselves esteem them<g ref="char:EOLhyphen"/>selves an equall match for Jesuits;</hi> and lest the Credit of your <hi>Learned</hi>
+               <note place="margin">Ibid.</note>
+               <hi>Footmen</hi> should sink, or the sober part of the world should look upon them as self conceited Puppies for having such a <hi>high E<g ref="char:EOLhyphen"/>steem</hi> of themselves, you hold them up by the chin, and tell us very sadly, that <hi>you think they have satisfy'd the World they are not mistaken</hi> in this opinion of themselves. Now, all this while <note place="margin">Ibid.</note> there was but <hi>one</hi> Footman, whose name, to <hi>ridicule</hi> a Roman-Catholick writer, was prefixt to a pamphlet, which in all like<g ref="char:EOLhyphen"/>lihood might have been written by some such shamming Gentle<g ref="char:EOLhyphen"/>man as your self. I wonder you did not add <hi>Protestant Broom-men, Kennell-rakers</hi> and <hi>Chimney-Sweepers;</hi> for none can doubt but some of these may have as much Knavish wit as a <hi>Footman.</hi> But it was your Kindness to Catholiks not to tyrannize too much o<g ref="char:EOLhyphen"/>ver them, on depress them with such ignoble comparisons; and therefore you did them the <hi>honour</hi> to allow them fit <hi>matches</hi> to run a Controversy race with your thrice <hi>Reverend Foot-men.</hi> And, by your Discourse, <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>high honour</hi> too; for you tell us p. 45.
+<pb n="3" facs="tcp:211692:4"/> that the R. F. <hi>Sabran is now grown more famous in the world from his new Antagonist the Footman.</hi> I hope I may use your own words so I apply them better; and tell the Reader that I admire at <hi>the</hi>
+               <note place="margin">P. 20.</note>
+               <hi>heat and bitterness of that little Satyr,</hi> your ridiculously-malici<g ref="char:EOLhyphen"/>ous self.</p>
+            <p n="2">2. Notwithstanding your <hi>Ill performance,</hi> I frankly acknow<g ref="char:EOLhyphen"/>ledge that a <hi>History</hi> of what Books have been writ <hi>pro</hi> and <hi>con</hi> in our Controversies is a very laudable <hi>Design;</hi> and had you ob<g ref="char:EOLhyphen"/>serv'd the impartiality of an <hi>Historian</hi> by onely relating what had been done in that kind, and then referr'd your <hi>Reader</hi> to the <hi>Books</hi> you mention'd, and left <hi>him</hi> to judge of the performances on both sides by those Books themselves, you had deserv'd a due Commendation. But you could not content your self with mat<g ref="char:EOLhyphen"/>ter of <hi>Fact,</hi> but would needs enter upon the matter of <hi>Right</hi> too; and this, with Reflexions wholly made up of Vapour, Insolence, silly Amplifications, Ironies, Invectives; and oftimes open Fal<g ref="char:EOLhyphen"/>shoods. For example, <hi>Never did man set pen to Paper</hi> (as <hi>F. Sa<g ref="char:EOLhyphen"/>bran) with such a stock of Ignorance and Confidence together.</hi> p. 4. <hi>whose stock is Confidence.</hi> p. 45. <hi>He has neither Learning, nor good manners,</hi> ibid. One would wonder, by the way, Sir, where <hi>your</hi> Breeding lies. But as for the <hi>Representer,</hi> he is quite stript of Honesty and Wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> both.<hi>—He seems</hi> (say you) <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>have struggled a little with himself before be could get the better of his Conscience.</hi> p. 11. <hi>The Confidence of this vain man—He</hi> (his Protestant Anta<g ref="char:EOLhyphen"/>gonist) <hi>has though fit to give him up as a priviledg'd person, who is past either Sense or Modesty, or hopes of being reclaim'd,</hi> p. 12. That is, in more honest term, his Antagonist acknowledges himself <hi>baffled,</hi> and I perceive by your p. 4. that you are about <hi>giving up F. Sabran</hi> too upon the same score. Again<hi>—That honest sincere man that cannot endure false dealing, but was dropt down from hea<g ref="char:EOLhyphen"/>ven to be the Scourge and Censor of a Licencious age—by a strange kind of Metamorphosis from an Angell of Light transforming himself into a Spirit of Darkness.</hi> p. 43. And lastly, that <hi>He is an Ass in a Ly<g ref="char:EOLhyphen"/>ons Skin.</hi> p. 44. Pray good sweet angry Sr. lay aside your Passion a whiles; and do but consider a little how ridiculous you make your self, and clap the long ears on your own noddle. Had you <hi>profest</hi> your self a <hi>Thersites,</hi> and a master of Invective Rhetorick, none would have wonder'd at you for following your Vocation; <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t the Jest is, you will needs make your self all this while a <hi>Master of Ceremonies,</hi> to teach others <hi>good manners,</hi> and yet <note place="margin">P. 45.</note> the Academy of Scolds at Billingsgate cannot furnish one with baser and fouler Language. Were you writing against the per<g ref="char:EOLhyphen"/>son,
+<pb n="4" facs="tcp:211692:5"/> and had at the same time <hi>prov'd</hi> his Demerit answerable to your words, then indeed <hi>Smart</hi> language, so it be <hi>True,</hi> may some times <hi>pass,</hi> nay be <hi>needfull;</hi> but to fall upon him so severe<g ref="char:EOLhyphen"/>ly in an undue occasion, and with such a furious career of ex<g ref="char:EOLhyphen"/>travagant railing, does too visibly proceed from the <hi>Impotency</hi> and <hi>Ʋneasiness</hi> of your <hi>Passion.</hi> Could a mad Dog speak, I know not (tho' you perhaps may) what worse language he could foam out than <hi>Ass</hi> and <hi>Devil.</hi> Whence <hi>I Congratulate to the Gentleman</hi> the happy <hi>omen,</hi> that he could deserve <hi>the heat and bitterness of</hi>
+               <note place="margin">P. 20.</note>
+               <hi>such little Satyr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> Thus our impartiall Historian treats the <hi>one</hi> party; But on the <hi>other</hi> he bestows all along the Magnificent <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<g ref="char:EOLhyphen"/>tles of <hi>Excellent, Learned, Ingenious, Incomparable,</hi> and all-<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<g ref="char:EOLhyphen"/>be Reverence<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them with his <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ermagant Hyperbolical Com<g ref="char:EOLhyphen"/>mendations. And now, Reader, is it a Straw's matter whether such a Writer praises or reviles a man; or rather are not his <hi>E<g ref="char:EOLhyphen"/>logiums</hi> a <hi>Disgrace,</hi> and his <hi>Invictives</hi> a high <hi>Honour</hi> and <hi>Commen<g ref="char:EOLhyphen"/>dation</hi> in the opinion o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any <hi>Moderate</hi> Reader?</p>
+            <p n="3">3▪ <hi>My</hi> turn comes next; and any man will see how Dr. St. and his good Friends are nettled, by your pelting me so unmercifully.</p>
+            <p n="4">4. Your First Falshood is, that I begun to <hi>carry on this Con<g ref="char:EOLhyphen"/>troversy</hi> after the Reflector had writ <hi>his.</hi> This I affirm to be <hi>Ʋn<g ref="char:EOLhyphen"/>true;</hi>
+               <note place="margin">P. 40.</note> Fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, the <hi>First</hi> Catholick Letter was also <hi>mine.</hi> And, tho' my Name was not to it, yet I still <hi>own'd</hi> it for <hi>mine</hi> in my follow<g ref="char:EOLhyphen"/>ing pi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ces. Which if you <hi>read,</hi> you could not but <hi>see;</hi> if you did <hi>not,</hi> you are a strange disregarder of Truth or Sincerity, to pass such <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n Censures upon Books you never so much as <hi>read.</hi> And, if this were so, as I much fear, it puts me into some doubt whe<g ref="char:EOLhyphen"/>ther you ever read <hi>any</hi> of the Catholick Books you <hi>Censur'd</hi> so <hi>deeply;</hi> but, like a right Honest man, right or wrong, shot your bolts at random.</p>
+            <p n="5">5. Your Second Falshood is, that Dr. <hi>St.</hi> has reply'd to my first Four Letters; And this is a most Notorious Banger. For, <note place="margin">Ibid.</note> first, in is shown in my Fifth Letter Page by Page to every Exa<g ref="char:EOLhyphen"/>miner's Eye, from p. 154. to p. 173. that he has omitted so much as to <hi>take notice of</hi> (much more to <hi>Answer)</hi> Thirty Nine parts of Fort of my First and Third Letters. Next, <hi>he</hi> owes me an An<g ref="char:EOLhyphen"/>swer to the Second. Thirdly, he has not answer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d one word to my <hi>Fourth.</hi> And so <hi>two</hi> or <hi>three</hi> shameless <hi>Ʋntruths</hi> must serve f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r an <hi>Answer</hi> to those <hi>four</hi> Treatises. Which, I suppose, is <hi>the modern way of Controversy</hi> you told us of p. 20 However, you tell us p. 40. <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Dr <hi>St's</hi> peece was an <hi>Excellent Discourse;</hi> that is, 'tis one of your <hi>Geese</hi> metamorphos'd to a <hi>Swan,</hi> by your gloss
+<pb n="5" facs="tcp:211692:5"/> commendations. However, it discover'd my <hi>Vanity,</hi> &amp; that's enough in all Conscience. But Sr, are You a Christian, even in a Latitudi<g ref="char:EOLhyphen"/>narian sense, who call it <hi>Vanity</hi> to assert that the Faith now held by Christians is truly Christ's, and consequently <hi>True,</hi> or that it has Grounds to prove it True that it did descend from him, which is the Grand Contest between Dr <hi>St.</hi> and me? And on this occasion let me ask you how you durst tell the World in the Ti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le to your Dedicatory, that a Book writ to maintain the <hi>Pos<g ref="char:EOLhyphen"/>sible Falshood of Faith,</hi> is writ <hi>In Defence of the Church of England;</hi> as if it were <hi>her</hi> Doctrine, that <hi>all Christian Faith may be a Lye;</hi> or how a Chaplain to an Arch-Bp. durst approve a Pamphle<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that makes that Church guilty of that half Atheisticall Tenet, which her best Writers and most Genuin Sons ever abhorr'd. But<hi>—Haec est hora vestra &amp; potestas tenebrarum.</hi>
+            </p>
+            <p n="6">6. Your Third Falshoo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is, that I writ <hi>Contradictions,</hi> which has been confuted <hi>at large</hi> in an elaborate Discourse (Fifth-Cath. Letter p. 8. to p. 18.) where every particular Contradiction objected is solv'd b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a clear state of the Question; which the Learned Dr. would needs mistake throughout his whole Answer. However, <hi>it was expected this would have stopt my mouth.</hi> But alas, when <hi>vain</hi> men <hi>promise</hi> to themselves Unreasonable things, how strangely their Expectations <hi>fail</hi> them! Tis not <hi>Nonsense</hi> cl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in <hi>fine words,</hi> nor all the Spitefull Reflexions of men, who, I see plainly, have not the least value for Truth, that can shock me or fright me from defending it.</p>
+            <p n="7">7. Your Fourth Falshood is, that the <hi>Blackloist Heresy was now like to be brought on the Stage again;</hi> meaning, that my Doctrin about Tradition was <hi>peculiar</hi> to Mr. <hi>Blacklow.</hi> The contrary to which I have shown to every honest Reader's eye in a particular Trea<g ref="char:EOLhyphen"/>tise <hi>(Clypeus Septemplex</hi> p. 209. to p. 250) and the very Reve<g ref="char:EOLhyphen"/>rend F. <hi>Warner</hi> in his <note n="*" place="margin">See Third Cath Letter. p. 21.</note>
+               <hi>Anti-Heaman</hi> tells Dr. <hi>Burnet</hi> he <hi>disco<g ref="char:EOLhyphen"/>vers his Ignorance</hi> in saying it was <hi>newly invented.</hi> Lastly, my Fifth Letter p. 24. has Forestall'd this objection. But no Sincerity is to be expected from such willfull Asserters of baffled Falshoods. Disprove a Calumny never so evidently, all they do, in stead of invalidating our Reasons or Testimonies, is <hi>to say the same over again</hi> with a steel'd Impudence, as if <hi>nothing</hi> had been alledg'd against it.</p>
+            <p n="8">8. Your Fifth Falshood is, that I have formerl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>eat my words.</hi>
+               <note place="margin">P. 41:</note> Your Sixth, that I did this, <hi>when I was cited to Rome to be cen<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r'd for those dangerous Hereticall Propositions which I am <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow a<g ref="char:EOLhyphen"/>ain breaching in England.</hi> Both of which are most <hi>Impudent Ʋn<g ref="char:EOLhyphen"/>truths.</hi>
+               <pb n="6" facs="tcp:211692:6"/> This appears both by the kind <hi>Monitio</hi> sent me from <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <note place="margin">* Clypeus Septemplex. p. 10.</note>
+               <hi>Sacred Congregation,</hi> where 'tis manifest they were aware that I had <hi>declar'd</hi> my self to speak <hi>[de Regula Externa Fidei seu de Tra<g ref="char:EOLhyphen"/>ditione Ecclesiae]</hi> of the <hi>Extrinsicall Rule of Faith</hi> or <hi>the Tradition of the Church.</hi> As also, that in the circumstance of our Contro<g ref="char:EOLhyphen"/>versy I had maintain'd <hi>[debere eam esse evidentem] this Rule ought to be Evident.</hi> All which they allow'd, and requir'd no more of me but only that <hi>Mindfull of the words of the Apostle [I am a Deb<g ref="char:EOLhyphen"/>tor both to the Greeks and to the Barbarians, both to the Wise and to the Ʋnwise] I would clear some Propositions contain'd something ob<g ref="char:EOLhyphen"/>scurely in my Books,</hi> by reason of the ambiguity of the word <hi>Evi<g ref="char:EOLhyphen"/>dence, viz.</hi> whether it was meant of the Evidence of the <hi>Mysteries,</hi> or of the <hi>Motives</hi> to Faith; which Mistake bred the whole Misun<g ref="char:EOLhyphen"/>derstanding. This I did by a hundred Instances, and most preg<g ref="char:EOLhyphen"/>nant and convincing Reasons in my <hi>Declaratio;</hi> and, this done, those <hi>severest</hi> Judges of <hi>Ʋnsound</hi> Doctrine, remain'd <hi>satisfy'd;</hi> and to your greater confusion I have the Original of the <hi>Monitio</hi> and the other Records in my hands still. For farther Evidence that I was neither put to <hi>Eat my words,</hi> or <hi>Retract</hi> the least tittle in my books, nor was ever <hi>Cited to Rome,</hi> I could al<g ref="char:EOLhyphen"/>lege those Right Reverend Personages, Bishop <hi>Leyburn,</hi> and Bishop <hi>Gifford;</hi> of which the former was at <hi>Rome</hi> all the time of the Contest: the Other, though at <hi>Paris,</hi> yet was ac<g ref="char:EOLhyphen"/>quainted with all the particulars of it: As also those Reverend Divines mention'd <hi>Fifth Cath. Letter. p.</hi> 21. who examin'd the Propositions chiefly objected; and attested under their hands that their Sense was <hi>not</hi> in my Books but the direct contrary: I could produce likewise Multitudes of <hi>Other</hi> Persons, both Di<g ref="char:EOLhyphen"/>vines and Lay-men, of <hi>unblemisht</hi> Credit, who can witness the same. And yet this Frontless man thinks to out-face the world with an open and manifest Lye, to second Dr. <hi>St</hi>'s wilfull For<g ref="char:EOLhyphen"/>geries; though he knows how I answer'd in my <hi>Clypeus Septem<g ref="char:EOLhyphen"/>plex</hi> and <hi>Vindiciae</hi> what the Dr. for want of better Stuff, did cite out of his Friend <hi>Lominus,</hi> and that in the First Section of my Fifth Catholick Letter I <hi>particularly</hi> shew'd by unquestionable Authority every tittle of Dr. <hi>St</hi>'s Calumnies to be most False: and, lastly, what Approbations from the most Knowing and most Orthodox Catholicks of the best Quality my Books have had. Which done I close <note n="*" place="margin">Fifth Cath: Letter. p. 30.</note> my Discourse with this Recapitula<g ref="char:EOLhyphen"/>rion [The Sum of my present Defence is his: Eight Divines of <q rend="margQuotes">great Repute, appointed by the Arch-Bishop of <hi>Paris,</hi> and ad mitted by my Adversary himself, do unanimously attest that
+<pb n="7" facs="tcp:211692:6"/> the Sense condemn'd is not in my Books, but the contrary. My Judge clears me; The Censu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers are commanded to make me Satisfaction. The Highest T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ibu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llows my Plea and acquits me. Primates, Arch-Bishops, B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ps, the <hi>Sorbon,</hi> E<g ref="char:EOLhyphen"/>minent Divines, and even those who take ano<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her way in their Writings, approve and commend my D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctrin, and most of them in very high and extraordinary expressions. My own Su<g ref="char:EOLhyphen"/>periour does the same; nay, even those who were formerly <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ghly prejudiced, declare themselves satisfy'd in it. So that poor Dr. <hi>St.</hi> is left alone to ballance against all this weighty Authority; with one <hi>Lominus,</hi> a meer <hi>Ʋtopian</hi> or Man in the Moon; on whose sole <hi>No-Authority</hi> he grounds all his sensless <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umnies.]</q> All which particulars were shewn there at large. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enforce those <hi>Testimonials,</hi> I added <q rend="margQuotes">[I desire the Reader to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffect that those Judg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, Approvers and Commenders of my <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ooks and Doctrin liv'd generally in <hi>diverse</hi> and far-distant <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ions, were of <hi>different</hi> Faculties and Universities, of <hi>different</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>cations, <hi>different</hi> Orders, and (to some degree) of <hi>different</hi> Principles &amp; Interests, <hi>diverse</hi> of them utterly unknown to <hi>Me,</hi> or I to <hi>Them.</hi> So that, 'tis impossible to imagine that any thing but the force of <hi>Truth,</hi> &amp; the <hi>Integrity</hi> of my way of proving the Certainty of our Faith, as to its having been taught by <hi>Jesus Christ,</hi> could make them <hi>conspire</hi> to <hi>allow</hi> or <hi>abet</hi> my Books so <hi>heartily</hi> and <hi>Ʋnanimously.</hi> Nor could there be any Human inducements to make them so strangely partial to a <hi>Private</hi> man, every way inconsiderable, and of <hi>no</hi> Esteem at all but what my <hi>Writings</hi> and <hi>Principles</hi> gave me.]</q> And now, Rea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>dmire at the Impudence of this man, and be Judge thy self <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>her he has not forsworn all Common Honesty, and renounc't <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>e, who, after all this and much more read by him in the <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>he is here Censuring, does, before any man <hi>has</hi> disprov'd <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ttle of it, or (I am sure) <hi>can,</hi> in this very book of his, where <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> pretends to give a faithfull account of the Contents of each <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>e, and of the performances of each of our Controvertists, not <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ot acquaint</hi> the Reader with this my Defence, but <hi>without</hi> Authority, nay <hi>against</hi> such an Uncontestable Authority, ven<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>o throw about his <hi>headstrong</hi> and willfull Forgeries; as that <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>adicted</hi> my self, <hi>Eat my Words,</hi> was <hi>cited to Rome;</hi> that what <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>e in my Letters is held there a <hi>dangerous Heresy,</hi> that no <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of <hi>Sense</hi> will <hi>be hired to read three Pages in my Books, &amp;c.</hi> An <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ent sig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of a <hi>Nonplust</hi> Cause, which puts its Defenders to such <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> shifts as to have recourse to Empty Vapour, Huge Noises, <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Notorious Li<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ld it.</p>
+            <p n="9">
+               <pb n="8" facs="tcp:211692:7"/> 9. You proceed and tell us next, that <hi>my Letter has met with as few Readers as I have Admirers.</hi> Here also there want some Grains of <hi>Truth,</hi> for I am inform'd there are not a Hundred left of my <hi>Fifth Letter;</hi> and sending to buy some of my <hi>First,</hi> I was told there were so few left that they are rais'd to double the price they were vended for in the beginning. Yet your <hi>Comfort</hi> is, <hi>there is no danger in the World of my Last Letter's doing any mischief,</hi>
+               <note place="margin">P. 41.</note>
+               <hi>since</hi> you <hi>do not believe it possible to hire any man of Sense to read three pages in it.</hi> Alas, poor Gentleman! I doubt not but you have a strong Faith, which so blinds you that you cannot see how ridiculous you make your self and your Friends. You gave us to understand by telling us Dr. <hi>St. declinei</hi> the Task, that he <hi>despairs</hi> of <hi>Answering</hi> that Letter <hi>fairly</hi> and upon the Square; and yet, when 'tis so clearly Visible that the <hi>Regret</hi> that you <hi>cannot</hi> answer it <hi>vexes</hi> and <hi>galls</hi> you to the heart, you, like a right plea<g ref="char:EOLhyphen"/>sant man, pretend to be much <hi>Comforted</hi> that 'tis not <hi>worth the An<g ref="char:EOLhyphen"/>swering.</hi> A very cheap and easy method to confute <hi>all</hi> the Books in the World. But, Sir, I am to tell you very <hi>Discomfortable</hi> news; which is, that the best Witts of our Nation, (to whom chiefly I write) men not a jot inferiour to your Great Dr himself, have not only read those Letters of mine, but given such a Character of them for <hi>Ʋnanswerable,</hi> as is not modest for me to repeat. And I have been told from a person of worth, that the very Reverend <hi>F. W.</hi> after his perusing some of my Letters, did honour them with this <hi>Elogium,</hi> that they <hi>had laid Dr. St. so flat that he would never be able to rise again.</hi> And, I am so confident of the Goodness of my cause, that I do here <hi>promise</hi> Him and the World very faithfully that I shall make his words good; or ra<g ref="char:EOLhyphen"/>ther, by what fol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ows here, it will appear I have done it <hi>alread<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>▪</hi> For you tell us, that <hi>A very Learned Person, in compassion,</hi> as you <note place="margin">P. 41.</note>
+               <hi>suppose, to the poor headstrong-man, hath undertaken to Answer <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> only my Fifth Letter, but the other Discourses of the Romanists a<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Tradition.</hi> As much as to say, the Dr. has enough of me. I <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> confess, Sir, this would be <hi>very Learned</hi> indeed; for he must <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the main passages, either <hi>confute First Principles,</hi> upon which <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>sist, or else (which is equally impossible) shew that they d<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> stand engag'd against Dr. <hi>St's</hi> Discourse. I know you can e<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>nick-name</hi> any thing an <hi>Answer,</hi> though never so trivial or <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> from the purpose. But that we may hold to the Point <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e you are flinching from, I will save your <hi>very Learn<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>son</hi> a great deal of trouble; and, if he can but <hi>shew</hi> us th<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Christian <hi>now</hi> living has any Reason that <hi>concludes</hi> the <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:211692:7"/> holds is the same which <hi>Christ</hi> and his Apostles taught, but by means of Tradition, I promise him I will be his Convert. This is the point in hand, and pray, Sir, let it be your care that your <hi>very Learned Person</hi> do not <hi>very Learnedly</hi> run quite away from it into Impertinent Digressions, as the <hi>most Learned</hi> Dr. <hi>St.</hi> did; for, if he does, I shall not be so <hi>very Ʋnlearned</hi> as to follow his Ramble.</p>
+            <p n="10">10. But is it not very pleasant that you should talk of <hi>Com<g ref="char:EOLhyphen"/>passion</hi> to <hi>me</hi> who have left your Dr. in such a <hi>pitifull</hi> and <hi>misera<g ref="char:EOLhyphen"/>ble</hi> Condition, that he thinks it not Creditable for him to pro<g ref="char:EOLhyphen"/>ceed further with me <hi>himself?</hi> I suppose he <hi>left me off,</hi> as the Representer's Antagonist did Him, or, as you Phrase it <hi>(p.</hi> 12.) <hi>has thought fit to give me up, as a Privileg'd Person who is past hopes of being reclaim'd;</hi> the true <hi>English</hi> of which every Prudent Rea<g ref="char:EOLhyphen"/>der will guess at. It would have done well tho' to have mingled a little <hi>Charity</hi> with his <hi>Compassion;</hi> for, certainly, he had done a great Cure to have set me to rights: For I must confess I am so <hi>headstrong</hi> as still to maintain that <hi>Errour Nonplus</hi> has shewn clearly that the Stupendiously Learned Dr. <hi>St.</hi> has <hi>never a Prin<g ref="char:EOLhyphen"/>ciple</hi> to help himself with: and the Dr. owes a Cure to this stiff-neck't humour of mine, since he contributed to it by <hi>mo<g ref="char:EOLhyphen"/>destly</hi> declining now these fifteen Years to answer that Book, or clear himself from being <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Man of No Principles.</hi> I am so <hi>headstrong</hi> too, that I will not let all the present Faith of Chri<g ref="char:EOLhyphen"/>stianity be held <hi>Possible to be False,</hi> or (which is the same) <hi>not-True.</hi> Nay, I am so <hi>headstrong,</hi> that, when I see plainly that scarce <hi>one</hi> of my <hi>Reasons</hi> are spoken to <hi>candidly</hi> and <hi>fairly,</hi> nor so much as <hi>one</hi> of them <hi>answer'd,</hi> I will not depart from my <hi>Conclusion,</hi> because the Incomparable Dr. <hi>St.</hi> prevaricates, flouts and fal<g ref="char:EOLhyphen"/>sifies. You see, Sir, of what nature my Disease of <hi>headstrong<g ref="char:EOLhyphen"/>ness</hi> is; and, if the <hi>more-then-very-Learned</hi> Dr. <hi>St.</hi> cannot cure me himself, I much fear your <hi>other</hi> Person, who is no more but <hi>very-Learned</hi> will scarce do any good of me.</p>
+            <p n="11">11. However, 'tis a Kindness that an Answer is <hi>promis'd</hi> me; But by <hi>Whom?</hi> I peremptorily <note n="*" place="margin">Fifth Cath. Letter. p. 153</note> Challeng'd the Dr. <hi>Himself</hi> who is my proper Adversary; and is he so shy to <hi>meet me</hi> and <hi>vindicate himself,</hi> when so many <hi>heavy</hi> Charges lie upon him, and particularly that <hi>heaviest</hi> of making All Christian Faith <hi>Possible to be False</hi> or (which is the same) <hi>not-True?</hi> Can he have <hi>any</hi> business that <hi>more nearly</hi> concerns his Credit then <hi>this</hi> does? Or does he hope that <hi>another</hi> Person can know his
+<pb n="10" facs="tcp:211692:8"/>
+               <hi>Thoughts</hi> and <hi>Reasons,</hi> and, so, <hi>defend</hi> him, <hi>better than Himself can?</hi> Neither of these can with any Sense be thought or pre<g ref="char:EOLhyphen"/>tended. 'Tis manifest then that he is at his Wit's end how to Reply pertinently; and therefore, seeing himself press<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d clo<g ref="char:EOLhyphen"/>ser and closer, and all his witty Evasions discover'd, he very fairly quits the Field, and sets on some <hi>perdu</hi> Bungler, furnisht with some Wit and a Plausible Invective Style, but little or no Sense; and who has as little Credit to lose as I shall get Ho<g ref="char:EOLhyphen"/>nour by me<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dling with him▪ and this for no other end but that it may be <hi>Trumpeted aloud</hi> to the world in your next <hi>Con<g ref="char:EOLhyphen"/>tinuation,</hi> now <hi>Incomparably J. S.</hi> has been <hi>Answer'd.</hi> Or, in case he be of any Repute in the eye of the world, yet for fear of danger he shall keep himself invisible in his Misty Cloak, with<g ref="char:EOLhyphen"/>out owning <hi>his Name,</hi> but come out upon the Stage <hi>Maskt,</hi> as your <hi>Continuating</hi> self does; and then (as your self also, secur'd after the same manner, has now done) he may without blush<g ref="char:EOLhyphen"/>ing, tell his Readers as many <hi>Falshoods</hi> as he pleases, and yet <hi>save his Credit;</hi> for then, like a Slander got among the Gossips, none knows <hi>on whom to fix it.</hi>
+            </p>
+            <p n="12">12. Well, but how will this <hi>very Learned Person</hi> Answer me? Why, you tell us he will answer me in</p>
+            <p>
+               <hi>An Historical Discourse concerning Tradition.</hi>
+            </p>
+            <p>Incomparable! I demand an Answer to <hi>nine</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r <hi>ten Treatises,</hi> and particularly to my <hi>Several Reasons</hi> alledg'd in them, of which, God be prais'd, there is good store; and this <hi>very Learned Person</hi> will undertake to <hi>Answer</hi> them <hi>All</hi> in a <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. Was it ever heard of since the World stood, that <hi>Intrinsical Ar<g ref="char:EOLhyphen"/>guments</hi> or <hi>Reasons</hi> are to be <hi>answer'd</hi> by <hi>Histories?</hi> Or, can these men give the world a Clearer Demonstration that they are per<g ref="char:EOLhyphen"/>fectly baffled, than to trick-off the <hi>Direct Answers</hi> they owe to my <hi>Arguments</hi> by such an <hi>Indirect Wile?</hi> Every Reader sees what a <hi>Candid</hi> and <hi>Clear</hi> Method I observe in all my Answers to the Dr. I take his Books and Reasons <hi>end-ways</hi> as they lie in order <hi>Page by Page;</hi> so that if I <hi>run astray</hi> from the Question in hand, or <hi>omit</hi> any thing of weight, 'tis easily <hi>discoverable,</hi> and I may be presently <hi>caught,</hi> for they know <hi>where</hi> to have me. On the other side my Adversaries can never be brought to follow any <hi>such</hi> Fair Method: But they fall to write a Treatise about some Subject, which by the common words in the Title looks a little a kin to our business; and then they catch at some passa<g ref="char:EOLhyphen"/>ges here and there incidentally scatter'd and disorderly Col<g ref="char:EOLhyphen"/>lected;
+<pb n="11" facs="tcp:211692:8"/> and, the true Sense and force of them, which they had as found in their due place, and the Tenour of the Discourse being <hi>lost</hi> or <hi>perverted,</hi> they fall to play upon those words; but where the Answer is to <hi>all the Particular Reasons</hi> contain'd in my Book, we may go look. Something is sleightly and wittily said to a <hi>few scraps</hi> of it, but the <hi>Main,</hi> or the <hi>Book it self,</hi> is left unspoken to. This untoward Method has been exactly fol<g ref="char:EOLhyphen"/>low'd by Dr. <hi>Tillotson</hi> throughout his <hi>Rule of Faith,</hi> and in his <hi>Preface to his Sermons;</hi> and the same is most Religiously ob<g ref="char:EOLhyphen"/>ferv'd by Dr. <hi>St</hi> in his late pretended Answer to some of my Letters; and particularly in his <hi>Examination</hi> of the Council of <hi>Trent,</hi> where he runs quite away from the whole business, as is shewn, <hi>Fifth Cath. Letter. p.</hi> 152 153.</p>
+            <p n="13">13. But, since this odd kind of Historian has undertaken to pay Dr. <hi>St</hi>'s Debts, 'tis but fitting I should give him a <hi>atalogue</hi> of them.</p>
+            <p>
+               <hi>Imprimis,</hi> He owes me an Answer to the many Arguments in <hi>Faith Vindicated,</hi> demonstrating that the Rule by which we are to know <hi>what hrist taught,</hi> must be <hi>Impossible to be False,</hi> or <hi>Infallible.</hi> This was apply'd in the <hi>Inferences</hi> at the End of that Treatise against the two Great Doctors; and it was shown there (I dare tell them) <hi>Ʋnanswerably,</hi> that unless they can confute <hi>That</hi> Book (which I am sure they dare not fairly <hi>Attempt)</hi> all they <hi>do</hi> write or <hi>can</hi> write of Controversy is at once quite overthrown. Since if it be made good that Chri<g ref="char:EOLhyphen"/>stian Faith <hi>must</hi> have <hi>such</hi> Conclusive Motives or <hi>such</hi> a Rule to <hi>establish</hi> it, and <hi>recommend</hi> it to those who are to embrace it, and they have <hi>none such,</hi> nay <hi>disclaim</hi> the having <hi>any such Rule,</hi> they can never prove it <hi>True,</hi> that any thing which themselves, or any else, do now hold, is indeed Christ's Doctrine.</p>
+            <p>
+               <hi>Item,</hi> he owes me an Answer to <hi>Errour Nonplust,</hi> which prov'd him to be <hi>A Man of No Principles</hi> and to the several Discourses against each of those pre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ended Principles of his re<g ref="char:EOLhyphen"/>spectively: for which I have less reason to forbear him any lon<g ref="char:EOLhyphen"/>ger, because he has in this long Term of Fifteen years, (at least,) <hi>Endeavour'd</hi> to clear some <hi>other</hi> debts, but never went about to pay me <hi>one single Farthing;</hi> which was very <hi>Ʋnconscionable.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> He owes me an Answer to my <hi>Method,</hi> Printed at the end of <hi>Errour-Nonplust;</hi> which comprises the summ of my Doctrine about Tradition, and reduces it to <hi>First Principles;</hi> which, therefore, since such <hi>Principles</hi> will not be brought to <hi>Contradict</hi>
+               <pb n="12" facs="tcp:211692:9"/>
+               <hi>One another,</hi> Dr. <hi>St.</hi> is the <hi>most proper</hi> man in the World to <hi>Op<g ref="char:EOLhyphen"/>pose</hi> and <hi>Answer,</hi> as having <hi>No Principles at all.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> He owes me an Answer to my <hi>First</hi> and <hi>Third Letters:</hi> in regard he has omitted to speak to <note n="*" place="margin">See Fifth Cath. Letter. p. 154. 155. 156 and p. 164. to p. 173</note>
+               <hi>Thirty Nine</hi> parts of <hi>For<g ref="char:EOLhyphen"/>ty</hi> in them; and his pretended Answer to the single <hi>Fortieth</hi> part, has been shown in my Fifth Letter to be <hi>none.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> He owes me an Answer to my <hi>Second Letter;</hi>
+               <note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bid. p. 156. to p. 165.</note> the Re<g ref="char:EOLhyphen"/>flecter, being, (poor man!) <hi>non-selvent.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> He owes me an <hi>Full Answer</hi> to my <hi>Fourth</hi> Letter laying open the <hi>Vanity</hi> of his Insignificant <hi>Guildhall-Hall Sermon;</hi> to which he <hi>has</hi> hitherto said <hi>Nothing.</hi> I add, <hi>nor ever can,</hi> with the <hi>least</hi> show of Reason.</p>
+            <p>
+               <hi>Item,</hi> He owes me a Compleat, Distinct and Direct answer to my whole <hi>Fifth Letter,</hi> &amp; all the <hi>several</hi> Discourses in it; to which, if we may trust you, he now declines to speak.</p>
+            <p>Lastly, he owes me an Account why, in his <hi>Appendix</hi> to Dr. <hi>T's Rule of Faith,</hi> he undertook to confute <hi>Tradition,</hi> and yet wilfully <hi>mistook</hi> the <hi>Nature</hi> of the Thing he was to <hi>impugn;</hi> as is shown <hi>Fifth Gath.</hi> Letter, p. 6. and 7. which renders that whole Appendix <hi>Insignificant.</hi>
+            </p>
+            <p n="14">14. Now, Sir, since 'tis Impossible that all the Books con<g ref="char:EOLhyphen"/>cerning Tradition can with any sense be said to be <hi>answer'd,</hi> till the <hi>Particular Reasons</hi> they insist on be <hi>distinctly</hi> reply'd to; and 'tis ridiculous to expect this from a <hi>Historical Discourse,</hi> I see we must set our hearts at rest and expect no Answer at all but only some sleeveless Discourse by a very large <hi>Synecdoche,</hi> or rather a far-stretcht <hi>Catachresis,</hi> miscall'd an <hi>Answer.</hi> Howe<g ref="char:EOLhyphen"/>ver, I shall demand this Justice of you, that you would put down all these particular Treatises as <hi>unanswer'd</hi> in an Appen<g ref="char:EOLhyphen"/>dix to this your <hi>Continuation of the present State of</hi> the <hi>Controversy</hi> (as you <hi>ridiculously</hi> call it, by the same figure as the French Par<g ref="char:EOLhyphen"/>son call'd the Devill <hi>The man of the Sin)</hi> And do not brag that Dr. <hi>T's Rule of Faith</hi> is not yet reply'd to; for, besides what has been done already, I am <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nform'd it will be <hi>punctually</hi> and <hi>particularly Answer'd:</hi> And, to requite your kindness, I hope by that time you write your next, to help you with some o<g ref="char:EOLhyphen"/>thers to furnish out your Narrative, and make you stand in need of some new Falshoods and Invectives to save the Credit of your Freinds, who are so laudably and meritoriously em<g ref="char:EOLhyphen"/>ploy'd in maintaining that the faith of all Christians in the world may be a <hi>Ly.</hi> If your <hi>Historicall Discourser</hi> fails of this perfor<g ref="char:EOLhyphen"/>mance,
+<pb n="13" facs="tcp:211692:9"/> I shall not leave the Point or the Question to dance af<g ref="char:EOLhyphen"/>ter his impertinent Voluntaries. It will, in that case, be an a<g ref="char:EOLhyphen"/>bundant satisfaction to the world that I show by detail what he has left unreply'd to, &amp; still insist upon a <hi>full</hi> &amp; direct <hi>Answer</hi> to my several Reasons or Discourses. But pray tell him that <hi>scorn-full Jeers</hi> and <hi>Open Falshoods,</hi> tho' never so briskly, and <hi>confident<g ref="char:EOLhyphen"/>ly</hi> deliver'd, are no competent <hi>Answers</hi> to <hi>Arguments,</hi> and I have reason to fear he will bring <hi>no other,</hi> or rather I am sure he <hi>cannot.</hi>
+            </p>
+            <p n="15">15. I would gladly find some way to save your Friends this vast Labour, and excuse them from this Impossible Task: Wherefore, since 'tis Unmercifull to press <hi>poor Deb<g ref="char:EOLhyphen"/>tors</hi> to pay more than they are <hi>able,</hi> therefore <hi>out of Compassion to your head-strong Party,</hi> I will come to this fair composition with them; that if Dr. <hi>St.</hi> can answer me but <hi>one single</hi> Argument which I will bring to prove, that he <hi>cannot,</hi> by his Principles, maintain it to be True, that what you or <hi>Any</hi> now hold is <hi>Christ's Doctrine,</hi> nor consequently that the present Christian Faith it self is <hi>True:</hi> Also, if he can bring but <hi>One</hi> Argu<g ref="char:EOLhyphen"/>ment himself, which (according to his Principles) does <hi>conclude</hi> that what <hi>he</hi> or any <hi>other</hi> Christian now holds, <hi>is</hi> Christs Do<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>trin, and, so, <hi>True,</hi> I will pardon the <hi>Vast Sums</hi> he owes me, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd quit all scores between us; nay more I will acknowledge <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll the Guilded Bubbles in your frothy Books to be solid sense, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd make you Publick Satisfaction for having oppos'd you hi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herto. I hope the Reader will think there was never in the world a <hi>kinder Creditour,</hi> considering the <hi>long</hi> scroll of <hi>what</hi> he is indebted to me for, and <hi>how long</hi> much of it has been due. Your Argument I am to expect. Mine is ready; premising <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irst this Lemma, that</p>
+            <p>
+               <hi>[What's True is</hi> (in our case) <hi>Impossible to be False.]</hi> For, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e are not speaking here of <hi>future Contingents,</hi> or of such cases where the Changeableness of the matter may <hi>vary</hi> the Truth of the Proposition as affirm'd at <hi>Present,</hi> but of what <hi>has</hi> deter<g ref="char:EOLhyphen"/>minately <hi>past</hi> or <hi>not past;</hi> whence what truly <hi>has been Taught</hi> by Christ is impossible now <hi>not to have been Taught by him.</hi> This Evident Truth fore-laid, I argue thus.</p>
+            <p>No Proof from Reason that <hi>does not Evidently conclude,</hi> nor Testimony that is <hi>Fallible,</hi> can prove a thing <hi>Impossible to be false.</hi>
+            </p>
+            <p>Therefore no such Proof or Testimony can prove a thing to be <hi>True.</hi> Lemma.</p>
+            <pb n="14" facs="tcp:211692:10"/>
+            <p> But Dr, <hi>St.</hi> allows no <hi>Conclusive Evidence</hi> previous to Faith, that <hi>Christ</hi> taught such or such a Doctrine, nor any Testimony but what's <hi>Fallible.</hi>
+            </p>
+            <p>Therefore Dr. <hi>St.</hi> cannot prove it <hi>True,</hi> that the Faith which <hi>he</hi> or any other Christian holds is <hi>brists Doctrine;</hi> nor consequently, that Christian Faith it self is <hi>True.</hi>
+            </p>
+            <p n="16">16. The Conclusiveness of this Argument I undertake to make good, let him attaque it where he will. Here is no Sham, Jeer, Ill Language, nor any of your or his little Tricks, but plain <hi>downright Reason.</hi> And, since I am forc't by your Indi<g ref="char:EOLhyphen"/>rect carriage to <hi>Rigorous Discourse,</hi> I expect from him the Rigo<g ref="char:EOLhyphen"/>rous Duty of a Respondent; viz. to <hi>Deny, Grant</hi> or <hi>Distinguish</hi> the severall propositions, and he shall have the same Return from me. I shall expect at the same time when he speaks to this Discourse, <hi>his</hi> Argument; <hi>concluding</hi> (by his Principles) that what <hi>Himself</hi> or <hi>Any Other</hi> Christian now holds, is indeed Christs Doctrine; and, so, <hi>True.</hi> And, if he refuses to afford me that moderate Satisfaction, he rejects my kind offer of such a fair Composition: and so he will stand yet engag'd to give me pertinent and distinct Answers to all those Treatises and the severall Arguments contain'd in them which strike at his Te<g ref="char:EOLhyphen"/>nets: And if he thinks it his Interest to joyn issue with me in such close and rigorous Discourse, I do here promise him, that there shall not be one word of <hi>Raillery</hi> (to which I am unwilling<g ref="char:EOLhyphen"/>ly drawn by his and his Friends carriage) nor the least kind of <hi>Excursion;</hi> but <hi>Pertinent</hi> and <hi>Plain</hi> Arguing, according to the Rules of exact Logick; and the same I shall expect from <hi>him.</hi> In order to which I make him this <hi>Fair Offer,</hi> that, which of us soever <hi>deflects</hi> into any <hi>Irregular</hi> Method, other than di<g ref="char:EOLhyphen"/>rect <hi>Arguing</hi> or <hi>Answering,</hi> shall be held to be <hi>Nonplust,</hi> and to have <hi>Lost his Credit.</hi> Every honest man will see that this Pro<g ref="char:EOLhyphen"/>posall is both <hi>Fair</hi> in it's self, and <hi>Equall</hi> to both sides; and ar<g ref="char:EOLhyphen"/>gues a Sincere Intention in the Proposer that <hi>Truth may appear.</hi> And therefore, if he <hi>dis-accepts</hi> this <hi>Offer</hi> or <hi>declines</hi> this <hi>Method,</hi> it will become manifest that he is <hi>utterly <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> as he is a Main<g ref="char:EOLhyphen"/>tainer of the Cause depending between us.</p>
+            <p n="17">17. By the way I desire to know from the Dr. why this <hi>one</hi> Argument of mine has not given a <hi>Full Answer</hi> to both his Books against the <hi>Councill of Trent,</hi> nay, to all he <hi>hath</hi> written or <hi>shall</hi> write, in the Judgment of every Intelligent man. Or <hi>why</hi> those Discourses which the Authour himself is forbidden by his own
+<pb n="15" facs="tcp:211692:10"/> Principles, to affirm that they <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ontain a word of <hi>Truth</hi> in them, can deserve any Answer at all. Indeed, if he will renounce his shallow Principles, and beginning on a new score, undertake to shew, that such or such a <hi>Reason</hi> is <hi>Conclusive,</hi> or such a <hi>Testi<g ref="char:EOLhyphen"/>mony</hi> is <hi>Infallible,</hi> He might, in <hi>that case,</hi> pretend to <hi>prove</hi> that to be <hi>True</hi> which is built upon them, and so deserve an Answer; otherwise what man, that is not over-courteous, will take him<g ref="char:EOLhyphen"/>self to be oblig'd to reply to Great Books, in which, by the Authors own Confession, no man living knows whether there be so much as <hi>one word</hi> of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ruth in them? Whence follows Evidently that Dr. <hi>St.</hi> ought in true Reason either to take up better Principles, or to leave off Writing Controversy; nay, even to leave off the Defending his own former Books. For 'tis a strange and desperate piece of Magnanimity for a Writer to maintain that to be a <hi>Truth</hi> which his own Principles force him to confess he knows not but it <hi>may be False;</hi> that is, <hi>he knows not</hi> whether it be <hi>True</hi> or no?</p>
+            <p n="18">18 If you or your Friends continue resolute to pursue this Impertinent Topick that my Doctrine about Tradition is held by the Governours of our Church to be Unsound in Faith, you stand oblig'd to prove, First, that the <hi>only</hi> Book you rely <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, <hi>viz. Lominus,</hi> is <hi>Authentique,</hi> and to be Credited, notwith<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>anding that the Gravest Testimonies in the Catholick Church <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> summ'd up above) by their Carriage and Express words have declar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the direct contrary. And withall, you are to let us know particularly <hi>who</hi> it was that <hi>Authenticated</hi> that Book, who <hi>Licensed</hi> or recommended it to the Press? What Printers, Authors, or Places <hi>name</hi> is to it; and to tell us the Reason <hi>why</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t was not <hi>own'd,</hi> or <hi>allow'd</hi> by Authority, being Printed in <hi>Paris,</hi> where the Laws enjoyn all these particulars under great Penalties. And if it have not <hi>these</hi> Qualifications which honest Writings may have, then you are to shew in what it differs from a <hi>Libell;</hi> as likewise to acquaint the World why you thought fit to rely on such a Book to prove my Doctrin <hi>Ʋnsound,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ather than on the Gravest Authorities of all sorts in the Roman Catholick Church, attesting the contrary under their hands so <hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>blickly.</hi> Next, you are to <hi>disprove</hi> what has been <hi>alledg'd</hi> by me <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the First Section of my <hi>Fifth Catholick Letter,</hi> to confute that Calumny, where such a Concurrence of Reasons &amp; Testimonies <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>e produc't, that it would shame Impudence it self to contest <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> And, lastly, you are to satisfy the world how, if this were
+<pb n="16" facs="tcp:211692:11"/> so, it could be possible that I should now <hi>still</hi> write and <hi>main<g ref="char:EOLhyphen"/>tain</hi> the <hi>same</hi> Doctrin, &amp; yet <hi>no</hi> man, but your selves, <hi>accuse</hi> me. If all this, which would convince even <hi>Scepticism</hi> it self, will not stop your Mouths, I offer your self a Friendly meeting be<g ref="char:EOLhyphen"/>fore some Persons of Honour of both Communions; where I shall produce the well-attested Originals and Authentick Re<g ref="char:EOLhyphen"/>cords (yet in my hands) belonging to that matter; which will shew you to your eye what Notorious Falshoods you have Printed against me. Why should you not, <hi>if you have spoke Truth,</hi> pull off your Vizard, and <hi>appear</hi> to <hi>justify</hi> it? Why should an <hi>Honest</hi> Man in an <hi>Honest</hi> Cause be so shy to <hi>shew his Face?</hi> Or, if the Consciousness of your Forgeries make you <hi>asham'd</hi> to do it in your <hi>own</hi> Person, at least appear by a <hi>Proxy.</hi> If all this will not keep you from obstinately persisting to oppose <hi>known Truths,</hi> I can only say you are wilfully <hi>possest</hi> with a Spirit of <hi>Lying,</hi> and deserve to be <hi>Posted.</hi>
+            </p>
+            <p n="19">19. I am sorry you would needs force me to use such plain Language: Were your Demerits the Effects of Frailty, Hu<g ref="char:EOLhyphen"/>manity would teach me to compassionate them. But, being both perfectly Wilfull and Wicked to boot, I should wrong Truth and be Unjust to my self, if I had not call'd your Faults by their <hi>own Ill Names,</hi> and I have done no more. Pray desire the Dr. and his Friends, for Truth's sake and their own Credit, that they will not so plainly convince the World, that they decline <hi>Answering</hi> and fall to <hi>Bantering;</hi> and withall assur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them that if they vainly hope to avail themselves of <hi>open Ly<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> I shall not want means both to <hi>clear</hi> my self and to <hi>expose<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> to the <hi>Scorn</hi> and <hi>Shame</hi> of Mankind. So wishing you hear<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and Charitably what you most need, <hi>Sincerity,</hi> I rest▪</p>
+            <closer>
+               <signed>Your Humble Servant, <hi>J. S.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed and Sold by</hi> Matthew Turner, <hi>at</hi> Lamb <hi>in</hi> High-Holborn. 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
